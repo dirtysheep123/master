@@ -1,5 +1,4 @@
 {
-  "ikifloat":3.98,
-  "ikiint":123,
-  "ikiboll": true
+  "versi":3.1,
+  "binfile":"https://raw.githubusercontent.com/dirtysheep123/master/refs/heads/main/bling.bin"
 }
